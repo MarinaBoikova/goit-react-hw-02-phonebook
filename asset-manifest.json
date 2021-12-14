@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MarinaBoikova/goit-react-hw-02-phonebook/static/css/main.c0bf9095.chunk.css",
+    "main.js": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/main.a1be2f9f.chunk.js",
+    "main.js.map": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/main.a1be2f9f.chunk.js.map",
+    "runtime-main.js": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/runtime-main.874bd69d.js",
+    "runtime-main.js.map": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/runtime-main.874bd69d.js.map",
+    "static/js/2.57bde710.chunk.js": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/2.57bde710.chunk.js",
+    "static/js/2.57bde710.chunk.js.map": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/2.57bde710.chunk.js.map",
+    "index.html": "/MarinaBoikova/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.c0bf9095.chunk.css.map": "/MarinaBoikova/goit-react-hw-02-phonebook/static/css/main.c0bf9095.chunk.css.map",
+    "static/js/2.57bde710.chunk.js.LICENSE.txt": "/MarinaBoikova/goit-react-hw-02-phonebook/static/js/2.57bde710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874bd69d.js",
+    "static/js/2.57bde710.chunk.js",
+    "static/css/main.c0bf9095.chunk.css",
+    "static/js/main.a1be2f9f.chunk.js"
+  ]
+}
